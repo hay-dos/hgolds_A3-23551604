@@ -16,10 +16,10 @@ EditorBuildSettings:
     guid: dccc60a7d2e3bca4390bdf6f95051060
   - enabled: 1
     path: Assets/Scenes/Page 3.unity
-    guid: d4658111ccdc93044a1de40649b0a077
+    guid: d1b9478f741042342b60b38817723742
   - enabled: 1
     path: Assets/Scenes/Page 4.unity
-    guid: 119040f314abc6b4a802fb2e3640668a
+    guid: aaaa30cf1201c9846b554fcb842a0708
   - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: b2366a56ff5f91e4a905c1ec76b57ad6
